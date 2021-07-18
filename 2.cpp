@@ -3,17 +3,17 @@ using namespace std;
 int main()
 {
 
-    //int number;
-    //cout<<"Enter the number;"<<endl;
-    //cin>> number;
+    int number;
+    cout<<"Enter the number;"<<endl;
+    cin>> number;
 
-    //cout<<"your Entered number = " <<number;
-    //int number;
+    cout<<"your Entered number = " <<number;
+    int number;
 
-    //cout << "Enter an integer: ";
-    //cin >> number;
+    cout << "Enter an integer: ";
+    cin >> number;
 
-    //cout << "You entered " << number;    
+    cout << "You entered " << number;    
 
     int t;
     cin>>t;
